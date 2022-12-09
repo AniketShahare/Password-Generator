@@ -1,5 +1,5 @@
 ## Password Generator (Javascript Assignment-04)  
-[Live Link]()
+[Live Link](https://randompasswordgenerator04.netlify.app/)
 
 **Name:** Aniket Shahare
 
